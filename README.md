@@ -1,7 +1,8 @@
 ---
 
-### Description:
+### Description
 This project is a feature-rich e-commerce application built with PHP and Laravel. It integrates Stripe for seamless payment processing and includes email services for notifications and user communication. Follow the steps below to set up and run the application in your local environment.
+
 ---
 
 ### Installation and Setup:
